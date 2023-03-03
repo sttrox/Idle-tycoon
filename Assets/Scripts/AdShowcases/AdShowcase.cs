@@ -1,7 +1,7 @@
 ﻿using Cysharp.Threading.Tasks;
 using IdleTycoon.Ads;
 
-namespace IdleTycoon
+namespace IdleTycoon.AdShowcases
 {
     public class AdShowcase : IAdShowcase
     {
